@@ -1,0 +1,80 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>E_Commerce_.Apis</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="wwwroot\Images\dressWoman1.jpeg" />
+    <Content Remove="wwwroot\Images\dressWoman2.jpeg" />
+    <Content Remove="wwwroot\Images\dressWoman3.jpeg" />
+    <Content Remove="wwwroot\Images\dressWoman4.jpeg" />
+    <Content Remove="wwwroot\Images\jacketChild1.jpeg" />
+    <Content Remove="wwwroot\Images\jacketChild2.jpeg" />
+    <Content Remove="wwwroot\Images\jacketMan1.jpeg" />
+    <Content Remove="wwwroot\Images\jacketMan2.jpeg" />
+    <Content Remove="wwwroot\Images\jacketWoman1.jpeg" />
+    <Content Remove="wwwroot\Images\jacketWoman2.jpeg" />
+    <Content Remove="wwwroot\Images\shirtMan2.jpeg" />
+    <Content Remove="wwwroot\Images\shirtMan3.jpeg" />
+    <Content Remove="wwwroot\Images\shirtMan4.jpeg" />
+    <Content Remove="wwwroot\Images\shoesChild1.jpeg" />
+    <Content Remove="wwwroot\Images\shoesChild2.jpeg" />
+    <Content Remove="wwwroot\Images\shoesMan1.jpeg" />
+    <Content Remove="wwwroot\Images\shoesMan2.jpeg" />
+    <Content Remove="wwwroot\Images\shoesWoman1.jpeg" />
+    <Content Remove="wwwroot\Images\shoesWoman2.jpeg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="wwwroot\Images\shoesMan1.jpeg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+    <PackageReference Include="microsoft.aspnetcore.authentication.jwtbearer" Version="7.0.10" />
+    <PackageReference Include="microsoft.aspnetcore.identity" Version="2.2.0" />
+    <PackageReference Include="microsoft.aspnetcore.identity.EntityFrameworkCore" Version="7.0.9" />
+    <PackageReference Include="Microsoft.AspNetCore.JsonPatch" Version="7.0.10" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="7.0.10" />
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.5" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.9">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="microsoft.identitymodel.tokens" Version="6.32.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.32.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\E-Commerce.BL\E-Commerce.BL.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Images\dressWoman1.jpeg" />
+    <None Include="wwwroot\Images\dressWoman2.jpeg" />
+    <None Include="wwwroot\Images\dressWoman3.jpeg" />
+    <None Include="wwwroot\Images\dressWoman4.jpeg" />
+    <None Include="wwwroot\Images\jacketChild1.jpeg" />
+    <None Include="wwwroot\Images\jacketChild2.jpeg" />
+    <None Include="wwwroot\Images\jacketMan1.jpeg" />
+    <None Include="wwwroot\Images\jacketMan2.jpeg" />
+    <None Include="wwwroot\Images\jacketWoman1.jpeg" />
+    <None Include="wwwroot\Images\jacketWoman2.jpeg" />
+    <None Include="wwwroot\Images\shirtMan2.jpeg" />
+    <None Include="wwwroot\Images\shirtMan3.jpeg" />
+    <None Include="wwwroot\Images\shirtMan4.jpeg" />
+    <None Include="wwwroot\Images\shoesChild1.jpeg" />
+    <None Include="wwwroot\Images\shoesChild2.jpeg" />
+    <None Include="wwwroot\Images\shoesMan1.jpeg" />
+    <None Include="wwwroot\Images\shoesMan2.jpeg" />
+    <None Include="wwwroot\Images\shoesWoman1.jpeg" />
+    <None Include="wwwroot\Images\shoesWoman2.jpeg" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\iti\\projects\\Ecommerce\\E-Commerce\\E-Commerce .Apis\\wwwroot\\Images\\shirtMan1.jpeg",
+      "PackagePath": "staticwebassets\\Images\\shirtMan1.jpeg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.E-Commerce .Apis.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.E-Commerce .Apis.props",
+      "PackagePath": "build\\E-Commerce .Apis.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.E-Commerce .Apis.props",
+      "PackagePath": "buildMultiTargeting\\E-Commerce .Apis.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.E-Commerce .Apis.props",
+      "PackagePath": "buildTransitive\\E-Commerce .Apis.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

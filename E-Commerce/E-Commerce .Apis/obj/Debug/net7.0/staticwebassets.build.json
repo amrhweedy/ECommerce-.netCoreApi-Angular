@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "HAjH8gS40cPMWT7f6nXPFfVIk4NFQyxRf39rE3dhv0c=",
+  "Source": "E-Commerce .Apis",
+  "BasePath": "_content/E-Commerce .Apis",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "E-Commerce .Apis\\wwwroot",
+      "Source": "E-Commerce .Apis",
+      "ContentRoot": "D:\\iti\\projects\\Ecommerce\\E-Commerce\\E-Commerce .Apis\\wwwroot\\",
+      "BasePath": "_content/E-Commerce .Apis",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\iti\\projects\\Ecommerce\\E-Commerce\\E-Commerce .Apis\\wwwroot\\Images\\shirtMan1.jpeg",
+      "SourceId": "E-Commerce .Apis",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\iti\\projects\\Ecommerce\\E-Commerce\\E-Commerce .Apis\\wwwroot\\",
+      "BasePath": "_content/E-Commerce .Apis",
+      "RelativePath": "Images/shirtMan1.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\shirtMan1.jpeg"
+    }
+  ]
+}

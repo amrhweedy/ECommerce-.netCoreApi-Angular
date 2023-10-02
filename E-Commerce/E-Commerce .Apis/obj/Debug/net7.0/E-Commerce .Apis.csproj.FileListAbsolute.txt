@@ -1,0 +1,186 @@
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\appsettings.Development.json
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\appsettings.json
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\E-Commerce .Apis.exe
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\E-Commerce .Apis.deps.json
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\E-Commerce .Apis.runtimeconfig.json
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\E-Commerce .Apis.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\E-Commerce .Apis.pdb
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Azure.Core.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Azure.Identity.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\System.Memory.Data.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\E-Commerce.BL.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\E-Commerce.DAL.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\E-Commerce.BL.pdb
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\E-Commerce.DAL.pdb
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\obj\Debug\net7.0\E-Commerce .Apis.csproj.AssemblyReference.cache
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\obj\Debug\net7.0\E-Commerce .Apis.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\obj\Debug\net7.0\E-Commerce .Apis.AssemblyInfoInputs.cache
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\obj\Debug\net7.0\E-Commerce .Apis.AssemblyInfo.cs
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\obj\Debug\net7.0\E-Commerce .Apis.csproj.CoreCompileInputs.cache
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\obj\Debug\net7.0\E-Commerce .Apis.MvcApplicationPartsAssemblyInfo.cs
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\obj\Debug\net7.0\E-Commerce .Apis.MvcApplicationPartsAssemblyInfo.cache
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\obj\Debug\net7.0\staticwebassets\msbuild.E-Commerce .Apis.Microsoft.AspNetCore.StaticWebAssets.props
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\obj\Debug\net7.0\staticwebassets\msbuild.build.E-Commerce .Apis.props
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.E-Commerce .Apis.props
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.E-Commerce .Apis.props
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\obj\Debug\net7.0\staticwebassets.pack.json
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\obj\Debug\net7.0\staticwebassets.build.json
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\obj\Debug\net7.0\staticwebassets.development.json
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\obj\Debug\net7.0\scopedcss\bundle\E-Commerce .Apis.styles.css
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\obj\Debug\net7.0\E-Commerce .Apis.csproj.CopyComplete
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\obj\Debug\net7.0\E-Commerce .Apis.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\obj\Debug\net7.0\refint\E-Commerce .Apis.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\obj\Debug\net7.0\E-Commerce .Apis.pdb
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\obj\Debug\net7.0\E-Commerce .Apis.genruntimeconfig.cache
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\obj\Debug\net7.0\ref\E-Commerce .Apis.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Humanizer.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\System.CodeDom.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\AutoMapper.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Microsoft.AspNet.Identity.Core.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\iti\c#\TESTDLLANDEXE\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\E-Commerce .Apis.staticwebassets.runtime.json
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\appsettings.Development.json
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\appsettings.json
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\E-Commerce .Apis.staticwebassets.runtime.json
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\E-Commerce .Apis.exe
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\E-Commerce .Apis.deps.json
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\E-Commerce .Apis.runtimeconfig.json
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\E-Commerce .Apis.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\E-Commerce .Apis.pdb
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\AutoMapper.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Azure.Core.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Azure.Identity.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Humanizer.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Microsoft.AspNet.Identity.Core.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\System.CodeDom.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\System.Memory.Data.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\E-Commerce.BL.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\E-Commerce.DAL.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\E-Commerce.BL.pdb
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\E-Commerce.DAL.pdb
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\obj\Debug\net7.0\E-Commerce .Apis.csproj.AssemblyReference.cache
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\obj\Debug\net7.0\E-Commerce .Apis.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\obj\Debug\net7.0\E-Commerce .Apis.AssemblyInfoInputs.cache
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\obj\Debug\net7.0\E-Commerce .Apis.AssemblyInfo.cs
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\obj\Debug\net7.0\E-Commerce .Apis.csproj.CoreCompileInputs.cache
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\obj\Debug\net7.0\E-Commerce .Apis.MvcApplicationPartsAssemblyInfo.cs
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\obj\Debug\net7.0\E-Commerce .Apis.MvcApplicationPartsAssemblyInfo.cache
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\obj\Debug\net7.0\staticwebassets\msbuild.E-Commerce .Apis.Microsoft.AspNetCore.StaticWebAssets.props
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\obj\Debug\net7.0\staticwebassets\msbuild.build.E-Commerce .Apis.props
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.E-Commerce .Apis.props
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.E-Commerce .Apis.props
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\obj\Debug\net7.0\staticwebassets.pack.json
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\obj\Debug\net7.0\staticwebassets.build.json
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\obj\Debug\net7.0\staticwebassets.development.json
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\obj\Debug\net7.0\scopedcss\bundle\E-Commerce .Apis.styles.css
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\obj\Debug\net7.0\E-Commerce .Apis.csproj.CopyComplete
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\obj\Debug\net7.0\E-Commerce .Apis.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\obj\Debug\net7.0\refint\E-Commerce .Apis.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\obj\Debug\net7.0\E-Commerce .Apis.pdb
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\obj\Debug\net7.0\E-Commerce .Apis.genruntimeconfig.cache
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\obj\Debug\net7.0\ref\E-Commerce .Apis.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\iti\projects\Ecommerce\E-Commerce\E-Commerce .Apis\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
